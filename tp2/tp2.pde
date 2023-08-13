@@ -1,5 +1,5 @@
 // González Martina Julieta 88141/9
-// https://youtu.be/ad3CHRZUPuo
+// https://youtu.be/wELEa66GTc8
 
 PImage foto;
 float tam, ang; //TAMAÑO RECTANG Y ANGULO (rot)
